@@ -1,0 +1,2 @@
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\230221\obj\Debug\230221.csprojAssemblyReference.cache
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\230221\obj\Debug\230221.csproj.CoreCompileInputs.cache

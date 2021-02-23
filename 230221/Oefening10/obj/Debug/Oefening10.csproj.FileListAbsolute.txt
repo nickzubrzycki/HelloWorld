@@ -1,0 +1,6 @@
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\Oefening10\bin\Debug\Oefening10.exe.config
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\Oefening10\bin\Debug\Oefening10.exe
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\Oefening10\bin\Debug\Oefening10.pdb
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\Oefening10\obj\Debug\Oefening10.csproj.CoreCompileInputs.cache
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\Oefening10\obj\Debug\Oefening10.exe
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\Oefening10\obj\Debug\Oefening10.pdb

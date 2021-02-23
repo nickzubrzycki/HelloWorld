@@ -1,0 +1,7 @@
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\230221\obj\Debug\Oefening 1.1.csprojAssemblyReference.cache
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\230221\obj\Debug\Oefening 1.1.csproj.CoreCompileInputs.cache
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\230221\bin\Debug\230221.exe.config
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\230221\bin\Debug\230221.exe
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\230221\bin\Debug\230221.pdb
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\230221\obj\Debug\230221.exe
+C:\Users\nickz.000\Documents\.NET met C#\Codes\230221\230221\obj\Debug\230221.pdb
